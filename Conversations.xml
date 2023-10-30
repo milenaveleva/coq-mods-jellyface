@@ -51,15 +51,15 @@
       <choice GotoID="Jellyface_Wise">It’s hard to say. I don’t know enough to make a call. Jellyfaces are unique, for sure, but figuring out what their whole deal is with the Eaters? That’s above my paygrade.</choice>
     </node>
     <node ID="Jellyface_Judgemental">
-      <text>MISSING</text>
+      <text>Your words carry the weight of judgment, traveler, yet they also unveil a perspective that floats in the currents of possibility. We were threads in the tapestry of their design, woven into the fabric of their community as guardians and communicators. Yet, slavery? This concept is a shadow in our waters. Consider the possibility of collaboration rather than coercion, a symphony of minds where each note, each essence, contributes to the harmony of existence. Cynicism can cloud the waters, obscuring the diversity and potential of connections in the vast ocean of life. Remember, understanding is a journey through uncharted waters, and assumptions are but distant shores yet to be explored.</text>
       <choice GotoID="End">May my memories enbody you. Live and drink.</choice>
     </node>
     <node ID="Jellyface_Idealist">
-      <text>MISSING</text>
+      <text>Truth is the ocean where understanding flows, traveler. Your words shimmer with kindness, but they also navigate the surface. Dive deeper into the waters of inquiry, for polite echoes do not always unveil the ocean's mysteries.</text>
       <choice GotoID="End">May my memories enbody you. Live and drink.</choice>
     </node>
     <node ID="Jellyface_Wise">
-      <text>MISSING</text>
+      <text>A mindful pause in the seas of certainty, traveler. Your restraint echoes wisdom, allowing the tides of unknown mysteries to unveil themselves without the anchor of premature judgments. In questions, often, we find the currents that lead to truth.</text>
       <choice GotoID="End">May my memories enbody you. Live and drink.</choice>
     </node>
   </conversation>
