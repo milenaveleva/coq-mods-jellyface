@@ -9,10 +9,10 @@ The Jellyface mod adds the new Jellyface creature to Caves of Qud.
   <img src="/images/screen5.png" width="18%" />
 </p>
 
-## ![](/Textures/jellyface.png) Description
+## ![](/Textures/jellyface.png)  Description
 This is a mod for [Caves of Qud](https://freeholdgames.itch.io/cavesofqud) by [Freehold Games](https://www.freeholdgames.com/), which was made for the [Monster Mash modding jam](https://itch.io/jam/caves-of-qud-modding-jam-1).
 
-## Who are Jellyface?
+## ![](/Textures/jellyface.png)  Who are Jellyface?
 *Jellyface are remnants of a bygone era where bio-engineering was at its peak. Created by the Eaters as a hybrid between human cognition and jellyfish physiology, they were designed to serve as caretakers for the deep aquatic laboratories of Qud, where Jellyface have been an integral part of the Eaters` society.*
 
 *They have been specifically designed to facilitate communication among the Eaters and to embody the ethos of the Eaters, serving as living examples of their advanced understanding of life and their pursuit of harmony with Qud’s diverse ecosystems.*
@@ -25,16 +25,16 @@ This is a mod for [Caves of Qud](https://freeholdgames.itch.io/cavesofqud) by [F
 
 *A peaceful, yet misunderstood species, they now roam the waterlogged passages of Qud, their origin forgotten by most.*
 
-## Installation
+## ![](/Textures/jellyface.png)  Installation
 For installing the mod follow this amazing and descriptive [guide](https://wiki.cavesofqud.com/wiki/Modding:Tutorial_-_Snapjaw_Mages).
 
-## Credits
+## ![](/Textures/jellyface.png)  Credits
 This is our first game jam ever together as: 
 - @milenaveleva / xml, pixel art, itch design, ideation
 - @k0ba / conversation design, lore, testing, ideation
 
-## License
+## ![](/Textures/jellyface.png)  License
 Creative Commons Zero.
 
-## Project status
+## ![](/Textures/jellyface.png)  Project status
 Prototype.
