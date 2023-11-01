@@ -1,11 +1,13 @@
-![](/images/ITCH-banner.jpg)
+<p align="middle">
+ <img src="/images/ITCH-banner.jpg" width="800">
+</p>
 
 <p align="middle">
-  <img src="/images/screen4.png" width="250" />
-  <img src="/images/screen1.png" width="250" /> 
-  <img src="/images/screen3.png" width="250" />
-  <img src="/images/screen.png" width="250" />
-  <img src="/images/screen5.png" width="250" />
+  <img src="/images/screen4.png" width="200" />
+  <img src="/images/screen.png" width="200" />
+  <img src="/images/screen1.png" width="200" /> 
+  <img src="/images/screen3.png" width="200" />
+  <img src="/images/screen5.png" width="200" />
 </p>
 
 # coq-mods-jellyface
