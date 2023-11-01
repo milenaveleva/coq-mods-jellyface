@@ -1,4 +1,4 @@
-<img src="/images/ITCH-banner.jpg" height="60" width="60" >
+![](/images/ITCH-banner.jpg)
 
 # coq-mods-jellyface
 The Jellyface mod adds the new Jellyface creature to Caves of Qud.
