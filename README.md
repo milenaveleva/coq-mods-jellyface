@@ -3,7 +3,7 @@ The Jellyface mod adds the new Jellyface creature to Caves of Qud.
 
 <p>
   <img src="/images/screen4.png" width="18%" />
-  <img src="/images/screen.png" height="10%" />
+  <img src="/images/screen.png" width="16%" />
   <img src="/images/screen1.png" width="18%" /> 
   <img src="/images/screen3.png" width="18%" />
   <img src="/images/screen5.png" width="18%" />
