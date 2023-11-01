@@ -1,12 +1,4 @@
 <p>
- <img src="/images/ITCH-banner.jpg" width="100%">
-</p>
-
-<p>
-  <img src="/images/ITCH-sidepic.jpg" width="20%">
-</p>
-
-<p>
   <img src="/images/screen4.png" width="18%" />
   <img src="/images/screen.png" width="18%" />
   <img src="/images/screen1.png" width="18%" /> 
@@ -17,8 +9,16 @@
 # coq-mods-jellyface
 The Jellyface mod adds the new Jellyface creature to Caves of Qud.
 
+<p>
+  <img src="/images/ITCH-sidepic.jpg" width="20%">
+</p>
+
 # Description
 This is a mod for [Caves of Qud](https://freeholdgames.itch.io/cavesofqud) by [Freehold Games](https://www.freeholdgames.com/), which was made for the [Monster Mash modding jam](https://itch.io/jam/caves-of-qud-modding-jam-1).
+
+<p>
+ <img src="/images/ITCH-banner.jpg" width="100%">
+</p>
 
 # Who are Jellyface?
 *Jellyface are remnants of a bygone era where bio-engineering was at its peak. Created by the Eaters as a hybrid between human cognition and jellyfish physiology, they were designed to serve as caretakers for the deep aquatic laboratories of Qud, where Jellyface have been an integral part of the Eaters` society.*
