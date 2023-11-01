@@ -4,8 +4,6 @@ The Jellyface mod adds the new Jellyface creature to Caves of Qud.
 ## Description
 This is a mod for [Caves of Qud](https://freeholdgames.itch.io/cavesofqud) by [Freehold Games](https://www.freeholdgames.com/), which was made for the [Monster Mash modding jam](https://itch.io/jam/caves-of-qud-modding-jam-1).
 
-This is our first game jam ever together! We`ve spent the first 48 hours of the submission exploring the game and trying to heal ourself up from some spaceaids we caught.
-
 ## Who are Jellyface?
 *Jellyface are remnants of a bygone era where bio-engineering was at its peak. Created by the Eaters as a hybrid between human cognition and jellyfish physiology, they were designed to serve as caretakers for the deep aquatic laboratories of Qud, where Jellyface have been an integral part of the Eaters` society.*
 
@@ -23,6 +21,7 @@ This is our first game jam ever together! We`ve spent the first 48 hours of the 
 For installing the mod follow this amazing and descriptive [guide](https://wiki.cavesofqud.com/wiki/Modding:Tutorial_-_Snapjaw_Mages).
 
 ## Credits
+This is our first game jam ever together as: 
 - @milenaveleva / xml, pixel art, itch design, ideation
 - @k0ba / conversation design, lore, testing, ideation
 
