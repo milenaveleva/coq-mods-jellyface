@@ -1,9 +1,10 @@
 ![](/images/ITCH-banner.jpg)
-![](/images/screen.png)
-![](/images/screen3.png)
-![](/images/screen4.png)
-![](/images/screen5.png)
-![](/images/screen1.png)
+
+![](/images/screen4.png){: style="height:83px"}
+![](/images/screen5.png){: style="height:83px"}
+![](/images/screen1.png){: style="height:83px"}
+![](/images/screen.png){: style="height:83px"}
+![](/images/screen3.png){: style="height:83px"}
 
 # coq-mods-jellyface
 The Jellyface mod adds the new Jellyface creature to Caves of Qud.
