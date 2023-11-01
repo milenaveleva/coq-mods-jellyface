@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <img src="/images/ITCH-sidepic.jpg">
+  <img src="/images/ITCH-sidepic.jpg" width="20%">
 </p>
 
 <p>
