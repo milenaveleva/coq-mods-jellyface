@@ -1,13 +1,17 @@
-<p align="middle">
- <img src="/images/ITCH-banner.jpg" width="800">
+<p>
+ <img src="/images/ITCH-banner.jpg" width="100%">
 </p>
 
-<p align="middle">
-  <img src="/images/screen4.png" width="200" />
-  <img src="/images/screen.png" width="200" />
-  <img src="/images/screen1.png" width="200" /> 
-  <img src="/images/screen3.png" width="200" />
-  <img src="/images/screen5.png" width="200" />
+<p>
+  <img src="/images?ITCH-sidepic.jpg">
+</p>
+
+<p>
+  <img src="/images/screen4.png" width="20%" />
+  <img src="/images/screen.png" width="20%" />
+  <img src="/images/screen1.png" width="20%" /> 
+  <img src="/images/screen3.png" width="20%" />
+  <img src="/images/screen5.png" width="20%" />
 </p>
 
 # coq-mods-jellyface
