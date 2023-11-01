@@ -13,13 +13,13 @@ The Jellyface mod adds the new Jellyface creature to Caves of Qud.
 This is a mod for [Caves of Qud](https://freeholdgames.itch.io/cavesofqud) by [Freehold Games](https://www.freeholdgames.com/), which was made for the [Monster Mash modding jam](https://itch.io/jam/caves-of-qud-modding-jam-1).
 
 <p>
- <img src="/Textures/jellyface.png" width="10%">
- <img src="/Textures/jellyface.png" width="10%">
- <img src="/Textures/jellyface.png" width="10%">
- <img src="/Textures/jellyface.png" width="10%">
- <img src="/Textures/jellyface.png" width="10%">
- <img src="/Textures/jellyface.png" width="10%">
- <img src="/Textures/jellyface.png" width="10%">
+ <img src="/Textures/jellyface.png" width="1%">
+ <img src="/Textures/jellyface.png" width="1%">
+ <img src="/Textures/jellyface.png" width="1%">
+ <img src="/Textures/jellyface.png" width="1%">
+ <img src="/Textures/jellyface.png" width="1%">
+ <img src="/Textures/jellyface.png" width="1%">
+ <img src="/Textures/jellyface.png" width="1%">
 </p>
 
 ## Who are Jellyface?
