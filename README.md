@@ -13,7 +13,13 @@ The Jellyface mod adds the new Jellyface creature to Caves of Qud.
 This is a mod for [Caves of Qud](https://freeholdgames.itch.io/cavesofqud) by [Freehold Games](https://www.freeholdgames.com/), which was made for the [Monster Mash modding jam](https://itch.io/jam/caves-of-qud-modding-jam-1).
 
 <p>
- <img src="/images/ITCH-banner.jpg" width="80%">
+ <img src="/Textures/jellyface.png" width="10%">
+ <img src="/Textures/jellyface.png" width="10%">
+ <img src="/Textures/jellyface.png" width="10%">
+ <img src="/Textures/jellyface.png" width="10%">
+ <img src="/Textures/jellyface.png" width="10%">
+ <img src="/Textures/jellyface.png" width="10%">
+ <img src="/Textures/jellyface.png" width="10%">
 </p>
 
 ## Who are Jellyface?
@@ -28,10 +34,6 @@ This is a mod for [Caves of Qud](https://freeholdgames.itch.io/cavesofqud) by [F
 *Driven by fragmented memories of their creation and remnants of human-like consciousness, Jellyface are on a quest to uncover the truth of their origins and the strips of the civilization that conceived them. As the Eaters' creations, they carry ancient memories and genetic codes that could unlock secrets of the Eaters' technologies or philosophies.*
 
 *A peaceful, yet misunderstood species, they now roam the waterlogged passages of Qud, their origin forgotten by most.*
-
-<p>
-  <img src="/images/ITCH-sidepic.jpg" width="20%">
-</p>
 
 ## Installation
 For installing the mod follow this amazing and descriptive [guide](https://wiki.cavesofqud.com/wiki/Modding:Tutorial_-_Snapjaw_Mages).
