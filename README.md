@@ -23,8 +23,8 @@ This is our first game jam ever together! We`ve spent the first 48 hours of the 
 For installing the mod follow this amazing and descriptive [guide](https://wiki.cavesofqud.com/wiki/Modding:Tutorial_-_Snapjaw_Mages).
 
 ## Credits
-@milenaveleva / xml, pixel art, itch design, ideation
-@k0ba / conversation design, lore, testing, ideation
+- @milenaveleva / xml, pixel art, itch design, ideation
+- @k0ba / conversation design, lore, testing, ideation
 
 ## License
 Creative Commons Zero.
